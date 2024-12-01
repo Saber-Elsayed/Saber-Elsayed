@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jaroeducation.com%2Fblog%2Ffull-stack-development-essential-qualifications%2F&psig=AOvVaw19kSkL-fEOq4YPLxXc-6Qy&ust=1733131536964000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjK86SghooDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://blog.hrflow.ai/content/images/2020/04/Full-Stack-Developer.jpg">
 # 💫 About Me:<br>
 🔥CURIOSITY🔥<br>⌛️PRODUCTIVITY⌛️<br>🚀AMBITION🚀<br>Are three values that guide me. <br>Experienced full-stack software engineer with a focus on React and JavaScript, specializing in the development of comprehensive web platforms.
  Proven expertise in creating solutions for diverse challenges, such as assisting travelers with physical disabilities and addressing residential distress. Adept at end-to-end execution, strong communication, and proactive self-learning, with proficiency in coding and debugging. Emphasizing efficiency, agility, and collaborative problem-solving, making valuable contributions as a team player in dynamic project environments. Ready to bring these skills to a new role.
